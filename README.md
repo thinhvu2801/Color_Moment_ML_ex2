@@ -1,0 +1,2 @@
+# Color_Moment_ML_ex2
+ This is a demo example of a machine learning exercise, focusing on the concept of 'colour moments'. This exercise helps learners better understand how computers can use colour signatures to classify and recognise images. Through this exercise, learners will practise with real data, apply machine learning algorithms to analyse and process images, thereby improving their skills and knowledge of machine learning in the field of image processing.
