@@ -1,6 +1,5 @@
 # **Color Moments - Machine Learning Demo**
 
-## **Mô tả**
 Đây là một ví dụ demo về việc tính toán **Color Moments** (Mean, Std, Skewness) cho các kênh màu **BGR** của một tập ảnh, từ đó tính toán mức độ tương đồng giữa các ảnh dựa trên các đặc trưng này. Đây là một bài tập cơ bản trong lĩnh vực học máy liên quan đến xử lý và phân tích ảnh.
 
 ### **Color Moments**
